@@ -1,1 +1,2 @@
-print("PRINCIPAL")
+print("PROGRAMA PRINCIPAL")
+print("SISTEMA PRINCIPAL")
