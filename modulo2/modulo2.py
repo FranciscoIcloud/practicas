@@ -1,1 +1,5 @@
 print("MODULO 2")
+print("MENU 1")
+print("MENU 2")
+print("MENU 3")
+print("MENU 4")
